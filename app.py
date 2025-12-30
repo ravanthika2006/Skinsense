@@ -21,7 +21,7 @@ def home():
 
    return """
 <h1> Welcome to SkinSense</h1>
-<h2> Your skin care companian </h2> 
+<h2> Your skin care companion </h2> 
 
 <form method = "post">  
 
